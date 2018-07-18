@@ -1,0 +1,15 @@
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\Foo.Common.Specs.dll.config
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\Foo.Common.Specs.dll
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\Foo.Common.Specs.pdb
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\nunit.framework.dll
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\System.ValueTuple.dll
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\nunit.framework.pdb
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\nunit.framework.xml
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\bin\Debug\System.ValueTuple.xml
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\obj\Debug\Foo.Common.Specs.csprojResolveAssemblyReference.cache
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\obj\Debug\Foo.Common.Specs.csproj.CoreCompileInputs.cache
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\obj\Debug\Foo.Common.Specs.dll
+C:\Users\tilst\Projects\Specflow\SpecflowTipsAndTricks\Foo.Common.Specs\obj\Debug\Foo.Common.Specs.pdb
